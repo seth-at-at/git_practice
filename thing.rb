@@ -1,1 +1,5 @@
-"I'm trying again"
+h = "Im trying again"
+
+a = "banana rama"
+
+puts h + " " + a 
