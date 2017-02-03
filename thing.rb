@@ -1,8 +1,8 @@
-h = "Im trying again"
-
+h = "Im tadfasdfrying again"
+adsfa
 a = "banana rama"
-
-puts h + " " + a
-
-
-"I'm trying again banana rama" == h + " " + a 
+adfasdfads
+puts h +adfa " " + a
+ada
+adfad
+"Im trying again bada h + " " + a 
